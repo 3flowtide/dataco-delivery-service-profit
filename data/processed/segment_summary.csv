@@ -1,0 +1,276 @@
+shipping_mode,region,market,customer_segment,n_orders,late_orders
+Standard Class,North Africa,Africa,Corporate,177,63
+Standard Class,West Africa,Africa,Consumer,361,132
+Same Day,Western Europe,Europe,Corporate,133,66
+Second Class,Southern Europe,Europe,Corporate,185,156
+First Class,Southern Europe,Europe,Corporate,144,144
+Standard Class,South of  USA ,USCA,Home Office,130,58
+Standard Class,US Center ,USCA,Corporate,306,124
+Same Day,South Asia,Pacific Asia,Home Office,13,5
+Same Day,West Asia,Pacific Asia,Corporate,29,15
+Same Day,North Africa,Africa,Corporate,18,11
+Standard Class,East Africa,Africa,Corporate,89,36
+Same Day,Caribbean,LATAM,Consumer,85,48
+Second Class,Eastern Asia,Pacific Asia,Consumer,294,241
+Standard Class,Southeast Asia,Pacific Asia,Consumer,1294,505
+Standard Class,West Asia,Pacific Asia,Consumer,610,243
+First Class,East of USA,USCA,Consumer,175,175
+Second Class,Oceania,Pacific Asia,Home Office,166,131
+First Class,Western Europe,Europe,Corporate,451,451
+First Class,South America,LATAM,Corporate,212,212
+First Class,US Center ,USCA,Home Office,48,48
+Second Class,Eastern Europe,Europe,Home Office,49,37
+Standard Class,East of USA,USCA,Home Office,240,98
+Same Day,Northern Europe,Europe,Home Office,36,13
+Standard Class,Central Asia,Pacific Asia,Home Office,8,2
+Same Day,East of USA,USCA,Consumer,68,37
+Second Class,East of USA,USCA,Home Office,72,56
+Same Day,Southern Europe,Europe,Corporate,47,28
+Second Class,Canada,USCA,Consumer,25,18
+Same Day,Canada,USCA,Corporate,1,0
+Second Class,Central America,LATAM,Corporate,524,417
+Standard Class,Oceania,Pacific Asia,Corporate,780,322
+Same Day,South America,LATAM,Consumer,123,64
+Second Class,Southeast Asia,Pacific Asia,Consumer,397,318
+Same Day,West of USA ,USCA,Consumer,72,40
+Second Class,West of USA ,USCA,Consumer,278,219
+Same Day,Oceania,Pacific Asia,Corporate,81,36
+Second Class,South of  USA ,USCA,Consumer,148,129
+Standard Class,Canada,USCA,Corporate,57,20
+Same Day,Southeast Asia,Pacific Asia,Corporate,57,26
+Same Day,Eastern Asia,Pacific Asia,Home Office,28,12
+First Class,East Africa,Africa,Home Office,13,13
+Same Day,Central Asia,Pacific Asia,Home Office,2,0
+Same Day,West Africa,Africa,Corporate,21,9
+First Class,Central Asia,Pacific Asia,Corporate,10,10
+Second Class,Western Europe,Europe,Corporate,602,491
+Second Class,South America,LATAM,Corporate,282,224
+Second Class,West Asia,Pacific Asia,Corporate,125,95
+Second Class,Caribbean,LATAM,Consumer,262,211
+Second Class,South Asia,Pacific Asia,Consumer,339,263
+Second Class,US Center ,USCA,Consumer,200,159
+Standard Class,Eastern Europe,Europe,Consumer,400,167
+Standard Class,Eastern Asia,Pacific Asia,Consumer,1040,415
+Standard Class,West of USA ,USCA,Consumer,784,298
+First Class,Eastern Asia,Pacific Asia,Corporate,170,170
+First Class,Southeast Asia,Pacific Asia,Home Office,129,129
+Standard Class,South America,LATAM,Home Office,530,197
+Same Day,US Center ,USCA,Home Office,14,5
+Standard Class,Northern Europe,Europe,Home Office,389,149
+Standard Class,Central Africa,Africa,Corporate,111,52
+First Class,Eastern Europe,Europe,Consumer,109,109
+First Class,Central Africa,Africa,Home Office,11,11
+Second Class,West Africa,Africa,Corporate,72,58
+Same Day,South of  USA ,USCA,Consumer,45,14
+First Class,South of  USA ,USCA,Home Office,25,25
+First Class,Southern Africa,Africa,Consumer,33,33
+Second Class,Central Africa,Africa,Home Office,20,17
+Same Day,Eastern Europe,Europe,Consumer,25,7
+Same Day,Central Africa,Africa,Corporate,7,1
+Same Day,Southern Africa,Africa,Home Office,4,2
+Second Class,Southern Africa,Africa,Home Office,12,9
+Same Day,US Center ,USCA,Consumer,54,18
+Standard Class,Northern Europe,Europe,Consumer,1121,452
+Standard Class,South America,LATAM,Consumer,1484,611
+Standard Class,Eastern Asia,Pacific Asia,Home Office,339,138
+First Class,Southeast Asia,Pacific Asia,Consumer,331,331
+Second Class,South Asia,Pacific Asia,Home Office,115,90
+First Class,South Asia,Pacific Asia,Corporate,152,152
+Second Class,Caribbean,LATAM,Home Office,97,81
+Standard Class,West of USA ,USCA,Home Office,270,108
+First Class,West Africa,Africa,Corporate,40,40
+Standard Class,Eastern Europe,Europe,Home Office,116,47
+Second Class,US Center ,USCA,Home Office,58,43
+First Class,South of  USA ,USCA,Consumer,109,109
+Second Class,Southern Africa,Africa,Consumer,27,21
+Second Class,Central Africa,Africa,Consumer,50,43
+First Class,North Africa,Africa,Corporate,50,50
+First Class,Eastern Europe,Europe,Home Office,44,44
+Same Day,Eastern Europe,Europe,Home Office,8,3
+First Class,Central Africa,Africa,Consumer,48,48
+Same Day,Southern Africa,Africa,Consumer,11,8
+Same Day,South of  USA ,USCA,Home Office,8,3
+First Class,Southern Africa,Africa,Home Office,11,11
+Second Class,US Center ,USCA,Corporate,117,95
+Second Class,Caribbean,LATAM,Corporate,154,128
+Second Class,South Asia,Pacific Asia,Corporate,193,163
+Standard Class,Eastern Asia,Pacific Asia,Corporate,554,218
+Standard Class,West of USA ,USCA,Corporate,467,197
+Second Class,Western Europe,Europe,Consumer,960,769
+Second Class,South America,LATAM,Consumer,441,349
+Standard Class,Central Africa,Africa,Consumer,152,66
+First Class,Eastern Asia,Pacific Asia,Consumer,233,233
+First Class,South Asia,Pacific Asia,Home Office,113,113
+Second Class,West Africa,Africa,Consumer,117,91
+Standard Class,Eastern Europe,Europe,Corporate,218,86
+Second Class,West Asia,Pacific Asia,Consumer,198,170
+First Class,North Africa,Africa,Home Office,19,19
+First Class,Southern Africa,Africa,Corporate,20,20
+Same Day,Central Africa,Africa,Consumer,17,6
+First Class,West Africa,Africa,Home Office,25,25
+First Class,Eastern Europe,Europe,Corporate,49,49
+Same Day,South of  USA ,USCA,Corporate,26,14
+Same Day,Eastern Europe,Europe,Corporate,21,10
+Standard Class,West Africa,Africa,Corporate,225,86
+Same Day,Western Europe,Europe,Consumer,281,144
+Standard Class,US Center ,USCA,Consumer,575,216
+Standard Class,North Africa,Africa,Consumer,329,134
+Second Class,Southern Europe,Europe,Consumer,332,263
+First Class,Southern Europe,Europe,Consumer,266,266
+First Class,Caribbean,LATAM,Home Office,75,75
+First Class,Northern Europe,Europe,Home Office,112,112
+Same Day,North Africa,Africa,Consumer,34,14
+Same Day,West Asia,Pacific Asia,Consumer,46,21
+First Class,West of USA ,USCA,Home Office,76,76
+Second Class,Central Asia,Pacific Asia,Home Office,4,4
+Same Day,Southern Europe,Europe,Consumer,115,65
+Standard Class,East Africa,Africa,Consumer,193,83
+First Class,Oceania,Pacific Asia,Home Office,105,105
+Standard Class,Southeast Asia,Pacific Asia,Corporate,733,314
+Second Class,Eastern Asia,Pacific Asia,Corporate,203,167
+First Class,Western Europe,Europe,Consumer,787,787
+Standard Class,Western Europe,Europe,Home Office,980,414
+First Class,South America,LATAM,Consumer,375,375
+Standard Class,Central America,LATAM,Home Office,943,387
+First Class,West Asia,Pacific Asia,Home Office,60,60
+Standard Class,Caribbean,LATAM,Home Office,297,110
+First Class,Central America,LATAM,Home Office,257,257
+Second Class,Northern Europe,Europe,Home Office,128,100
+Standard Class,West Asia,Pacific Asia,Corporate,315,131
+Second Class,Canada,USCA,Corporate,17,15
+Second Class,North Africa,Africa,Home Office,29,24
+First Class,East of USA,USCA,Corporate,103,103
+Same Day,East of USA,USCA,Corporate,43,16
+Same Day,Caribbean,LATAM,Corporate,38,17
+Second Class,East Africa,Africa,Home Office,23,16
+Same Day,Canada,USCA,Consumer,10,3
+Same Day,East Africa,Africa,Home Office,5,2
+Second Class,Southeast Asia,Pacific Asia,Corporate,261,209
+Second Class,Central America,LATAM,Consumer,921,715
+Standard Class,Oceania,Pacific Asia,Consumer,1293,526
+Standard Class,South Asia,Pacific Asia,Home Office,344,137
+Standard Class,Canada,USCA,Consumer,82,25
+Same Day,South America,LATAM,Corporate,84,40
+Standard Class,Southern Europe,Europe,Home Office,370,140
+Same Day,Central America,LATAM,Home Office,96,46
+Same Day,West Africa,Africa,Consumer,47,23
+Standard Class,Southern Africa,Africa,Home Office,46,24
+Second Class,West of USA ,USCA,Corporate,147,116
+Same Day,West of USA ,USCA,Corporate,37,15
+Same Day,Oceania,Pacific Asia,Consumer,130,66
+Same Day,Southeast Asia,Pacific Asia,Consumer,101,49
+Second Class,South of  USA ,USCA,Corporate,78,62
+First Class,Canada,USCA,Home Office,15,15
+First Class,Central Asia,Pacific Asia,Consumer,4,4
+Standard Class,Southern Africa,Africa,Corporate,72,26
+Standard Class,Southern Europe,Europe,Corporate,619,226
+Standard Class,South Asia,Pacific Asia,Corporate,566,207
+Same Day,Eastern Asia,Pacific Asia,Consumer,86,40
+Second Class,South of  USA ,USCA,Home Office,45,35
+Second Class,Southeast Asia,Pacific Asia,Home Office,155,123
+Same Day,Central America,LATAM,Corporate,130,66
+Second Class,West of USA ,USCA,Home Office,79,67
+First Class,East Africa,Africa,Consumer,54,54
+Same Day,West of USA ,USCA,Home Office,26,15
+Same Day,South America,LATAM,Home Office,46,25
+First Class,Canada,USCA,Corporate,14,14
+Same Day,Central Asia,Pacific Asia,Consumer,9,2
+Second Class,Southern Africa,Africa,Corporate,12,9
+Standard Class,Northern Europe,Europe,Corporate,639,240
+Standard Class,South America,LATAM,Corporate,848,322
+First Class,Eastern Asia,Pacific Asia,Home Office,66,66
+First Class,Southeast Asia,Pacific Asia,Corporate,190,190
+First Class,South Asia,Pacific Asia,Consumer,258,258
+Second Class,Western Europe,Europe,Home Office,313,253
+Second Class,South America,LATAM,Home Office,176,140
+First Class,West Africa,Africa,Consumer,74,74
+Second Class,West Africa,Africa,Home Office,39,29
+First Class,North Africa,Africa,Consumer,81,81
+Same Day,Southern Africa,Africa,Corporate,5,4
+Second Class,West Asia,Pacific Asia,Home Office,67,49
+Standard Class,Central Africa,Africa,Home Office,55,23
+Same Day,US Center ,USCA,Corporate,22,12
+First Class,South of  USA ,USCA,Corporate,53,53
+First Class,Central Africa,Africa,Corporate,30,30
+Second Class,Central Africa,Africa,Corporate,27,22
+Same Day,Central Africa,Africa,Home Office,5,1
+Same Day,Central America,LATAM,Consumer,244,122
+Standard Class,Southern Europe,Europe,Consumer,1056,402
+Standard Class,South Asia,Pacific Asia,Consumer,968,392
+Standard Class,Southern Africa,Africa,Consumer,127,47
+Standard Class,Oceania,Pacific Asia,Home Office,421,169
+Second Class,Central America,LATAM,Home Office,303,245
+Standard Class,Canada,USCA,Home Office,37,13
+First Class,Canada,USCA,Consumer,24,24
+Same Day,Oceania,Pacific Asia,Home Office,55,25
+Same Day,Southeast Asia,Pacific Asia,Home Office,39,13
+Same Day,Eastern Asia,Pacific Asia,Corporate,58,34
+Same Day,Central Asia,Pacific Asia,Corporate,5,1
+First Class,East Africa,Africa,Corporate,27,27
+First Class,Central Asia,Pacific Asia,Home Office,5,5
+Same Day,West Africa,Africa,Home Office,6,1
+Second Class,East of USA,USCA,Corporate,123,98
+Standard Class,East of USA,USCA,Corporate,400,157
+Second Class,North Africa,Africa,Consumer,94,73
+Second Class,Northern Europe,Europe,Consumer,351,282
+Standard Class,Western Europe,Europe,Consumer,2938,1227
+Standard Class,Caribbean,LATAM,Consumer,805,300
+Standard Class,Central America,LATAM,Consumer,2835,1126
+First Class,Oceania,Pacific Asia,Consumer,294,294
+Second Class,Oceania,Pacific Asia,Corporate,250,199
+First Class,South America,LATAM,Home Office,137,137
+First Class,Central America,LATAM,Consumer,725,725
+First Class,Western Europe,Europe,Home Office,278,278
+First Class,West Asia,Pacific Asia,Consumer,152,152
+Standard Class,Central Asia,Pacific Asia,Corporate,26,10
+Second Class,Eastern Europe,Europe,Corporate,81,65
+Second Class,East Africa,Africa,Consumer,61,51
+Standard Class,East Africa,Africa,Home Office,64,27
+Same Day,East Africa,Africa,Consumer,14,4
+Same Day,Northern Europe,Europe,Corporate,69,31
+Same Day,Southern Europe,Europe,Home Office,35,13
+First Class,US Center ,USCA,Corporate,93,93
+Standard Class,US Center ,USCA,Home Office,192,85
+Same Day,South Asia,Pacific Asia,Corporate,80,48
+First Class,Caribbean,LATAM,Consumer,187,187
+Standard Class,South of  USA ,USCA,Corporate,234,94
+First Class,Southern Europe,Europe,Home Office,97,97
+Second Class,Southern Europe,Europe,Home Office,124,95
+Standard Class,North Africa,Africa,Home Office,97,37
+Second Class,Central Asia,Pacific Asia,Consumer,27,22
+Same Day,Western Europe,Europe,Home Office,84,39
+Same Day,West Asia,Pacific Asia,Home Office,21,10
+First Class,West of USA ,USCA,Consumer,188,188
+First Class,Northern Europe,Europe,Consumer,258,258
+Same Day,North Africa,Africa,Home Office,13,10
+Second Class,Northern Europe,Europe,Corporate,208,163
+Standard Class,Western Europe,Europe,Corporate,1756,666
+Standard Class,Central America,LATAM,Corporate,1623,650
+Standard Class,Caribbean,LATAM,Corporate,521,186
+Second Class,Oceania,Pacific Asia,Consumer,433,342
+Second Class,East of USA,USCA,Consumer,218,171
+Standard Class,East of USA,USCA,Consumer,692,289
+Standard Class,Central Asia,Pacific Asia,Consumer,69,32
+Standard Class,Southeast Asia,Pacific Asia,Home Office,486,214
+First Class,Oceania,Pacific Asia,Corporate,167,167
+Second Class,Eastern Asia,Pacific Asia,Home Office,100,84
+First Class,East of USA,USCA,Home Office,64,64
+Same Day,Northern Europe,Europe,Consumer,95,38
+First Class,Central America,LATAM,Corporate,400,400
+First Class,West Asia,Pacific Asia,Corporate,104,104
+Second Class,Canada,USCA,Home Office,9,6
+Standard Class,West Asia,Pacific Asia,Home Office,208,82
+First Class,US Center ,USCA,Consumer,173,173
+Second Class,Eastern Europe,Europe,Consumer,126,99
+Same Day,East Africa,Africa,Corporate,16,9
+Second Class,North Africa,Africa,Corporate,72,62
+Same Day,East of USA,USCA,Home Office,21,12
+Same Day,Caribbean,LATAM,Home Office,24,14
+Second Class,East Africa,Africa,Corporate,30,26
+Standard Class,South of  USA ,USCA,Consumer,379,157
+Same Day,South Asia,Pacific Asia,Consumer,78,37
+Standard Class,West Africa,Africa,Home Office,147,58
+First Class,Northern Europe,Europe,Corporate,158,158
+First Class,West of USA ,USCA,Corporate,112,112
+First Class,Caribbean,LATAM,Corporate,130,130
+Second Class,Central Asia,Pacific Asia,Corporate,11,10
